@@ -1,0 +1,112 @@
+COMP1531 Lab02
+
+Epic Stories
+
+1. As a customer I should be able to rent a car through the online car rental system, so that I can drive.
+
+2. As an employee I should be able to return resourful information to our customers and manipulate data within the online car rental system, so that I can help customers rent a car.
+
+3. As a manager I should be able to access quantitive data that provides an overview of the online car rental system, so I can succesfully run our car rental system.
+
+1 story point = 1 hours of work
+
+1.1 Details + Fees 5 (High)
+
+As a customer, I want to be able to easily view the fees and details associated with renting a car based on my details provided, so that I could properly financially plan and compare between other car rental companies.
+
+ - Once I put in my cust into the sytem, a page of all avaiable cars to rent should be displayed with prices and details of said cars displayed as well
+
+
+1.2 Filtering - 6 (Low)
+
+As a customer, I want to be able to filter the availabe cars to rent based on my own perferences, so that I can more efficiently find a suitable car to rent.
+
+- Once I apply filters to my car search, a page of all avaiable cars that fit my filter preference should be displayed
+
+- If there are no avaiable cars that fit my filters preference, a message should displayed saying that there a no cars available that fit that criteria  
+
+1.3 Confirmation - 1 (Medium)
+
+As a customer, I want to be able receive confirmation once I booked a car, so that I know that my booking is successful. 
+
+- Once a customer has booked a car and confirmation email should be sent to the email address that a customer has entered into the system 
+
+
+
+2.1 Customer Detais - 6 (High)
+
+As an employee, I want to be able to view all details regarding a customer (car they want to rent, age, insurance history etc), so I can efficently use these details to book the car rental.
+
+- All customers data should be correctly displayed to an employee
+
+2.2 Login - 2 (High)
+
+As an employee, I want to login to the car rental system and access and manipulate car information, including type, make, mode, year and registration number in the system, so that keep track of all car rental information 
+
+
+- If you login as an employee you should have access to customer data and be able to manipulate said data
+
+- If your login failed, a message indicating that your login failed should be displayed
+
+
+
+
+3.1 Outsourcing - 2 (High)
+
+As a manager, I want to outsource the insurance and the payment system to an external company for ease of operation in the online car rental system
+
+- The customer information should be correctly sent to the outsourced companty
+
+
+3.2 Reports - 5 (Low)
+
+As a manager, I want to generate weekly reports that show a log of cars rented, so I can see the utilisation rate of the rentals car, and the profitabity of the company
+
+- car rental data should be accurately displayed in a weekly report format
+
+
+Main Usage Scenario 
+
+1. Renting A car 
+2. Customer accesses the affordable car rental website and has access to a range of available cars to book
+ 
+3. Intiating Actor - Customer
+
+4. Intiating Actor's Goal - Book a rental car.
+
+5. Participating Actors - Insurance Agent, Bank
+
+6. 
+	- Customer access affordable car rental website
+	- Website displays GUI 
+	- Customer user preferences are used to filter available Car
+	- Once A customer books an available car a confirmation email is sent
+	- an Employee logins into the affordable car rental system
+	- the employee stores the customers data within the affordable car rental system 
+	- Insurance and payment information are porvided by outsourced companies
+	- Manager generates reports based on metadata of affordable car rental system
+
+
+
+
+
+Use-case name;
+Brief description;
+Initiating Actor;
+Actor’s goal;
+Participating actors;
+Flow of events only for the Main Success usage scenario.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

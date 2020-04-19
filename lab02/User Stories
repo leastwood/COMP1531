@@ -1,0 +1,27 @@
+Customer
+- customisation of burger
+  - As a customer, I would like to be able to customise my burger so that my preferences are reflected in my food.
+- additional ingredients
+  - As a customer, I want to be able to add specified ingredients to my choice of burger so that I can have more of one ingredient on my burger.
+- sides
+  - As a customer, I want to be able to choose what sides to have alongside my burger so that I have additional food based on my preferences.
+- cost
+  - As a customer, I would like to be able to see the cost of my burger so that I can determine if I can afford the meal or not.
+- order ID
+  - As a customer, I want to receive an order ID so that I can track which order is mine.
+
+
+Service Staff
+- status of order
+  - As a service staff employee, I want to have access to the status of each order so that I know what orders are complete.
+- add/remove orders
+  - As a service staff employee, I would like to be able to add and remove orders so that I can provide accurate service to my customers.
+
+
+Stock Staff
+- view number or stocks
+  - As an inventory staff member, I wish to have access to the viewing of stocks so that I can see how much stock is left.
+- reorder/replenish inventory
+  - As an inventory staff member, I want to be able to reorder and replenish my stocks so that I always have sufficient resources.
+- reduce the amount of items accordingly
+  - As an inventory staff member, I want to be able to deduct the inventory level as a customer places an order so I know the correct amount of inventory we have.
